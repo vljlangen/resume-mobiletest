@@ -18,8 +18,7 @@ superuser: true
 
 # Role/position/tagline
 role: |
-  Data Scientist, AI Specialist, Keynote Speaker, Open Source Advocate, Freelance Technology Consultant,  
-  Author on Computational Ethics, Machine Learning Educator, Innovation Lead
+  Data Scientist, AI Specialist, Keynote Speaker, Open Source Advocate, Freelance Technology Consultant, Author on Computational Ethics, Machine Learning Educator, Innovation Lead
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
