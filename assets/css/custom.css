@@ -1,10 +1,14 @@
 .mb-1 {
   padding: 0 20px 0 20px;
+  display: block; 
+  text-align: center;
 }
 
 
 .mb-2 {
   padding: 0 20px 0 20px;
+  display: block; 
+  text-align: center;
 }
 
 
