@@ -18,11 +18,11 @@ superuser: true
 
 # Role/position/tagline
 role: |
-  Data Scientist, AI Specialist, Keynote Speaker, Open Source Advocate, Freelance Technology Consultant, Author on Computational Ethics, Machine Learning Educator, Innovation Lead
-
+  Data Scientist, AI Specialist, Keynote Speaker, Open Source Advocate, Freelance Technology Consultant
+  
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Center for Advanced Computing and AI Research, International Institute for Computational Intelligence, Global Tech Innovators Network
+  - name: Center for Advanced Computing and AI Research, International Institute for Computational Intelligence
     url: https://example.com/
 
 # Social network links
